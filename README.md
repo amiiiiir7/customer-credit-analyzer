@@ -1,10 +1,9 @@
 # Customer Credit Analyzer
 
 ## Overview
-This project is a simple Python exercise for practicing basic data analysis concepts. It was built to review and strengthen my understanding of functions, dictionaries, and loops in Python.
+This is a simple Python project that analyzes customer credit scores and categorizes risk levels.
 
-The project simulates a basic banking scenario where customer credit scores are analyzed and categorized into risk levels.
-
+It was created as part of my learning process in Python, focusing on functions, dictionaries, and basic data analysis.
 ---
 
 ## Objectives
@@ -27,3 +26,7 @@ The project simulates a basic banking scenario where customer credit scores are 
 
 - Simple customer report generation using formatted output
 
+---
+
+## Technologies
+- Python
